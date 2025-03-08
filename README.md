@@ -1,2 +1,1 @@
-# Poojitha
-Hello world ! this is my profile
+# Hi My Name is Poojitha
